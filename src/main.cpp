@@ -174,7 +174,7 @@ setup(void)
     pinMode(LED, OUTPUT);
     digitalWrite(LED, LED_OFF);
 
-    connect_wifi();
+    wifi_connect();
     server.begin();
 }
 
