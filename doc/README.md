@@ -23,9 +23,9 @@
 
 ## Objetivo
 
->   Crear una página de Web residente en el ESP32
->   Mediante la misma, se podrá prender o apagar un led mediante un único botón.
->   Por lo tanto, el control que implica es dependiente del estado (stateful)
+>   Crear una página de Web residente en el ESP32  
+>   Mediante la misma, se podrá prender o apagar un led mediante un único botón.  
+>   Por lo tanto, el control que implica es dependiente del estado (stateful)  
 
 ## Hardware
 
